@@ -10667,6 +10667,12 @@ footer {
   padding-bottom: 3rem;
 }
 
+#footer{
+  clear: both;
+ 
+
+}
+
 header.masthead {
   position: relative;
   margin-bottom: 3rem;
